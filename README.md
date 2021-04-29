@@ -60,5 +60,5 @@ Here are some ideas to get you started:
 
 ### Connect with me :smiley:
 <a href="https://www.linkedin.com/in/m-santhosh-kumar/">
-  <img align="left" alt="Vedant Jajoo Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
+  <img align="left" alt="Vedant Jajoo Linkdin" width="30px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
