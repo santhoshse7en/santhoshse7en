@@ -6,15 +6,16 @@
 **santhoshse7en/santhoshse7en** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on independent research. 
-- 🌱 I’m currently learning scraping
-- 👯 I’m looking to collaborate on open source projects
+-->
+- 🔭 I’m currently working on independent research.
+- 🖊️ I also try to write once in a while. Check it out!
+- 🌱 I’m currently learning about Spatio-temporal analysis using R.
+- 👯 I’m looking to collaborate on open source projects and NLProc Reasearch.
 - 🤔 I’m looking for help with being more productive during the pandemic.
-- 💬 Ask me about the intersection of technology
-- 📫 How to reach me: [santhoshse7en@gamil.com](mailto:santhoshse7en@gamil.com)
+- 📫 How to reach me: pr440@snu.edu.in
+- 📧 Check out my portfolio website to get to know me better
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am really into trekking & Skydiving
+- ⚡ Fun fact: I am really into trekking
 
 <br/>
 
