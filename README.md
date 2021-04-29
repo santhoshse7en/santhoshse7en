@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <br/>
 
 <div>
-<img src="https://cdn.svgporn.com/logos/python.svg" alt="Python" width="48" height="48">
+<img src="https://cdn.svgporn.com/logos/python.svg" alt="Python" width="40" height="40">
 
 <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="Javascript" width="48" height="48">
 <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="Node" width="48" height="48">
