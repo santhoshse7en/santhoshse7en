@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 <br/>
 
+**Languages and Tools:**  
+
 <div>
 <img src="https://cdn.svgporn.com/logos/python.svg" alt="Python" width="40" height="40">
     
