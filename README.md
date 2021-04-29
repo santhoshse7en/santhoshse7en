@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="Node" width="48" height="48">
 
 <img src="https://cdn.svgporn.com/logos/graphql.svg" alt="GraphQL" width="48" height="48">
-<img src="https://cdn.svgporn.com/logos/react.svg" alt="React" width="48" height="48">
+<img src="https://cdn.svgporn.com/logos/graphene.svg" alt="Graphene" width="48" height="48">
 
 <img src="https://cdn.svgporn.com/logos/selenium.svg" width="48" height="48">
   
