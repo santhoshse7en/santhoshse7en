@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for help with being more productive during the pandemic.
 - 📫 How to reach me: [santhoshse7en@gmail.com](mailto:santhoshse7en@gmail.com)
-- 📧 Check out my portfolio website to get to know me better
+- 📧 Check out my [portfolio website](msanthoshkumar.herokuapp.com/) to get to know me better
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am really into trekking & skydiving
 
