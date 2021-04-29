@@ -28,28 +28,28 @@ Here are some ideas to get you started:
 
 <div>
 <img src="https://cdn.svgporn.com/logos/python.svg" alt="Python" width="40" height="40">
+    
+<img src="https://cdn.svgporn.com/logos/javascript.svg" alt="Javascript" width="40" height="40">
+<img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="Node" width="40" height="40">
 
-<img src="https://cdn.svgporn.com/logos/javascript.svg" alt="Javascript" width="48" height="48">
-<img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="Node" width="48" height="48">
+<img src="https://cdn.svgporn.com/logos/graphql.svg" alt="GraphQL" width="40" height="40">
+<img src="https://cdn.svgporn.com/logos/graphene.svg" alt="Graphene" width="40" height="40">
 
-<img src="https://cdn.svgporn.com/logos/graphql.svg" alt="GraphQL" width="48" height="48">
-<img src="https://cdn.svgporn.com/logos/graphene.svg" alt="Graphene" width="48" height="48">
-
-<img src="https://cdn.svgporn.com/logos/selenium.svg" alt="Selenium" width="48" height="48">
+<img src="https://cdn.svgporn.com/logos/selenium.svg" alt="Selenium" width="40" height="40">
   
-<img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="PostgreSQL" width="48" height="48">
-<img src="https://cdn.svgporn.com/logos/mysql.svg" alt="MySQL" width="48" height="48">
-<img src="https://cdn.svgporn.com/logos/airtable.svg" alt="Airtable" width="48" height="48">
+<img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="PostgreSQL" width="40" height="40">
+<img src="https://cdn.svgporn.com/logos/mysql.svg" alt="MySQL" width="40" height="40">
+<img src="https://cdn.svgporn.com/logos/airtable.svg" alt="Airtable" width="40" height="40">
 
-<img src="https://cdn.svgporn.com/logos/aws-s3.svg" alt="AWS-S3" width="48" height="48">
-<img src="https://cdn.svgporn.com/logos/aws-cloudwatch.svg" alt="AWS-Cloudwatch" width="48" height="48">
-<img src="https://cdn.svgporn.com/logos/aws-lambda.svg" alt="AWS-Lambda" width="48" height="48">
+<img src="https://cdn.svgporn.com/logos/aws-s3.svg" alt="AWS-S3" width="40" height="40">
+<img src="https://cdn.svgporn.com/logos/aws-cloudwatch.svg" alt="AWS-Cloudwatch" width="40" height="40">
+<img src="https://cdn.svgporn.com/logos/aws-lambda.svg" alt="AWS-Lambda" width="40" height="40">
 
-<img src="https://automatorwp.com/wp-content/themes/automatorwp-theme/assets/img/integrations/integromat.svg" alt="VSC" width="48" height="48">
-<img src="https://cdn.svgporn.com/logos/zapier-icon.svg" alt="Zapier" width="48" height="48">
+<img src="https://automatorwp.com/wp-content/themes/automatorwp-theme/assets/img/integrations/integromat.svg" alt="VSC" width="40" height="40">
+<img src="https://cdn.svgporn.com/logos/zapier-icon.svg" alt="Zapier" width="40" height="40">
 
-<img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="VSC" width="48" height="48">
-<img src="https://cdn.svgporn.com/logos/pycharm.svg" alt="PYC" width="48" height="48">
+<img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="VSC" width="40" height="40">
+<img src="https://cdn.svgporn.com/logos/pycharm.svg" alt="PYC" width="40" height="40">
   
 </div>
 
