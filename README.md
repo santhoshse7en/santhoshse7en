@@ -22,12 +22,19 @@ Here are some ideas to get you started:
 
 <br/>
 
-**Languages and Tools:**  
+**Languages**  
+<br/>
 
 <div>
 <img src="https://cdn.svgporn.com/logos/python.svg" alt="Python" width="40" height="40">
-    
 <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="Javascript" width="40" height="40">
+</div>
+<br/>
+
+**Tools:**
+<br/>
+
+<div>
 <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="Node" width="40" height="40">
 
 <img src="https://cdn.svgporn.com/logos/graphql.svg" alt="GraphQL" width="40" height="40">
@@ -51,3 +58,7 @@ Here are some ideas to get you started:
   
 </div>
 
+### Connect with me :smiley:
+<a href="https://www.linkedin.com/in/m-santhosh-kumar/">
+  <img align="left" alt="Vedant Jajoo Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
+</a>
