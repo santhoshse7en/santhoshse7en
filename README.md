@@ -1,9 +1,5 @@
 ### Hi there, I am Santhosh 👋
 
-<p align="center">
-<img src="https://visitor-badge.glitch.me/badge?page_id=santhoshse7en" alt="Visitors Counter">
-</p>
-
 <!--
 **santhoshse7en/santhoshse7en** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
