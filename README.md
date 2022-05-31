@@ -1,10 +1,9 @@
-### Hi there, I am Santhosh 👋
+# M SANTHOSH KUMAR 👨‍💻
 
-<!--
-**santhoshse7en/santhoshse7en** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/m-santhosh-kumar/)](https://www.linkedin.com/in/m-santhosh-kumar/)
 
-Here are some ideas to get you started:
--->
+👨‍🎓 B.Tech in Computer Science and Engineering from SVEC, Tirupati (Class of 2018) 
+
 - 🔭 I’m currently working on independent research.
 - 🌱 I’m currently learning about Web Scraping using Python.
 - 📫 How to reach me: [santhoshse7en@gmail.com](mailto:santhoshse7en@gmail.com)
@@ -55,8 +54,3 @@ Here are some ideas to get you started:
 <img src="https://cdn.svgporn.com/logos/pycharm.svg" alt="PYC" width="40" height="40">
   
 </div>
-
-### Connect with me :smiley:
-<a href="https://www.linkedin.com/in/m-santhosh-kumar/">
-  <img align="left" alt="Vedant Jajoo Linkdin" width="30px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
-</a>
