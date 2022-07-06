@@ -5,7 +5,7 @@
 👨‍🎓 B.Tech in Computer Science and Engineering from SVEC, Tirupati (Class of 2018) 
 
 - 🔭 I’m currently working on independent research.
-- 🌱 I’m currently learning about Web Scraping using Python.
+- 🌱 I’m currently learning to solve and build solution using Python.
 - 📫 How to reach me: [santhoshse7en@gmail.com](mailto:santhoshse7en@gmail.com)
 - 📧 Check out my [portfolio website](https://msanthoshkumar.herokuapp.com/) to get to know me better
 
