@@ -2,12 +2,13 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/m-santhosh-kumar/)](https://www.linkedin.com/in/m-santhosh-kumar/)
 
-👨‍🎓 B.Tech in Computer Science and Engineering from SVEC, Tirupati (Class of 2018) 
+Software Engineer with 4 Years of Experience
 
-- 🔭 I’m currently working on independent research.
-- 🌱 I’m currently learning to solve and build solution using Python.
-- 📫 How to reach me: [santhoshse7en@gmail.com](mailto:santhoshse7en@gmail.com)
-- 📧 Check out my [portfolio website](https://msanthoshkumar.herokuapp.com/) to get to know me better
+- 💼 Currently working in the fintech sector, specializing in building APIs for banks and NBFCs.
+- 🔍 Continuously exploring new technologies to enhance the robustness and efficiency of solutions.
+- 🔬 Open to collaborating on independent research projects.
+- 💻 Actively learning and building solutions using Python.
+- 📧 Reach out to me via email: [santhoshse7en@gmail.com](mailto:santhoshse7en@gmail.com)
 
 <br/>
 
@@ -48,7 +49,7 @@
 <img src="https://cdn.svgporn.com/logos/aws-lambda.svg" alt="AWS-Lambda" width="40" height="40">
 
 <img src="https://automatorwp.com/wp-content/themes/automatorwp-theme/assets/img/integrations/integromat.svg" alt="VSC" width="40" height="40">
-<img src="https://cdn.svgporn.com/logos/zapier-icon.svg" alt="Zapier" width="40" height="40">
+<img src="https://www.svgrepo.com/show/354596/zapier-icon.svg" alt="Zapier" width="40" height="40">
 
 <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="VSC" width="40" height="40">
 <img src="https://cdn.svgporn.com/logos/pycharm.svg" alt="PYC" width="40" height="40">
