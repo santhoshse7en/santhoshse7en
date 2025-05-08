@@ -40,6 +40,7 @@ I’m a passionate **Software Engineer** with **4+ years** of experience, curren
   <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="Node.js" width="40" height="40" title="Node.js"/>
   <img src="https://cdn.svgporn.com/logos/graphql.svg" alt="GraphQL" width="40" height="40" title="GraphQL"/>
   <img src="https://cdn.svgporn.com/logos/graphene.svg" alt="Graphene" width="40" height="40" title="Graphene"/>
+  <img src="https://cdn.svgporn.com/logos/fastapi.svg" alt="FastAPI" width="40" height="40" title="FastAPI"/>
   <img src="https://cdn.svgporn.com/logos/selenium.svg" alt="Selenium" width="40" height="40" title="Selenium"/>
 </p>
 
@@ -52,9 +53,7 @@ I’m a passionate **Software Engineer** with **4+ years** of experience, curren
 
 ### ☁️ Cloud & Automation
 <p>
-  <img src="https://cdn.svgporn.com/logos/aws-s3.svg" alt="AWS S3" width="40" height="40" title="AWS S3"/>
-  <img src="https://cdn.svgporn.com/logos/aws-cloudwatch.svg" alt="AWS CloudWatch" width="40" height="40" title="AWS CloudWatch"/>
-  <img src="https://cdn.svgporn.com/logos/aws-lambda.svg" alt="AWS Lambda" width="40" height="40" title="AWS Lambda"/>
+  <img src="https://cdn.svgporn.com/logos/aws.svg" alt="AWS" width="40" height="40" title="Amazon Web Services"/>
   <img src="https://automatorwp.com/wp-content/themes/automatorwp-theme/assets/img/integrations/integromat.svg" alt="Integromat" width="40" height="40" title="Integromat"/>
   <img src="https://www.svgrepo.com/show/354596/zapier-icon.svg" alt="Zapier" width="40" height="40" title="Zapier"/>
 </p>
